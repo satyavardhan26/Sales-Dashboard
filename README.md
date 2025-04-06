@@ -7,3 +7,9 @@ This project features an interactive Sales Dashboard built in Microsoft Excel to
 - Top-performing products and customers
 - Interactive filters and slicers for dynamic analysis
 - Clean and user-friendly layout for easy interpretation
+
+# Tools Used:
+Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers & Data Validation
+- Conditional Formatting
